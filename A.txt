@@ -1,1 +1,1 @@
-Feature branch version of the line
+Resolved version combining both main and feature
