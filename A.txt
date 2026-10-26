@@ -1,2 +1,1 @@
-This is the first line.
-A new second line for A
+Feature branch version of the line
